@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-cluster/commit/d2f93f1d17abd001454cecd8de21c75138053d7b",
       "git:hexsha": "d2f93f1d17abd001454cecd8de21c75138053d7b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:20:19.382128+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-cluster/commit/a8d12b9bcdc2cbc4e7560ca61f176749d2685dbf",
